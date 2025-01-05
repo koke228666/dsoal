@@ -9,6 +9,7 @@
 #include <windows.h>
 #include "dsound.h"
 
+/* kek */
 /* allocate some tmp string space */
 /* FIXME: this is not 100% thread-safe */
 static char *get_temp_buffer( size_t size )
